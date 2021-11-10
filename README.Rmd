@@ -19,6 +19,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/ggseg/ggsegCampbell/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegCampbell/actions)
+[![DOI](https://zenodo.org/badge/424732644.svg)](https://zenodo.org/badge/latestdoi/424732644)
 <!-- badges: end -->
 
 This package contains dataset for plotting the Campbell 1905 historical atlas with ggseg and ggseg3d,  based on the supplementary materials of Pijnenburg et al., NeuroImage, 239, 2021 [DOI](https://doi.org/10.1016/j.neuroimage.2021.118274); Version 1; 15-01-2021.

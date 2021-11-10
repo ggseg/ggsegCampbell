@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/ggseg/ggsegCampbell/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegCampbell/actions)
+[![DOI](https://zenodo.org/badge/424732644.svg)](https://zenodo.org/badge/latestdoi/424732644)
 <!-- badges: end -->
 
 This package contains dataset for plotting the Campbell 1905 historical
